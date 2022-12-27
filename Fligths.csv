@@ -1,0 +1,5 @@
+Airline Number,Departure,Destination,Date,Price
+1,A1234,Philadelphia,San Diego,2020-02-14,500
+2,A12345,Philadelphia,Los Angeles,2020-02-14,1000
+3,A123456,Philadelphia,New York,2020-02-14,1000
+...
